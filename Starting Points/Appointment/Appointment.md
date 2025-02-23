@@ -56,7 +56,7 @@ Les status 4.3 ne répondent pas, les status 301 sont des redirections et les st
 
 ![alt text](image-1.png)
 
-Il faut réussir à injecter une commande pour qu'elle soit interprété par le service: une injection SQL. Pour se faire on entre en utilisateur et en mot de passe la ligne suivante: `admin'#`
+Il faut réussir à injecter une commande pour qu'elle soit interprété par le service: une injection SQL. Pour se faire on entre en utilisateur la ligne suivante: `admin'#`
 
 ![alt text](image-2.png)
 
