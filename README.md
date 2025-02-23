@@ -22,7 +22,7 @@ Any streaming or publication of Hack The Box Content solutions not mentioned in 
 
 | Box terminée                              | Difficulté  | Exploit                                                                                            |
 | --------------------------------------    | ----------- | -------------------------------------------------------------------------------------------------- |
-| [Appointment](Appointment/Appointment.md) | Very easy   | #databases #Apache #MariaDB #PHP #SQL #reconnaissance #SQLinjection                                |
+| [Appointment](https://github.com/Arcanelle/HackTheBox/blob/main/Starting%20Points/Appointment/Appointment.md) | Very easy   | #databases #Apache #MariaDB #PHP #SQL #reconnaissance #SQLinjection |
 | [Bike](Bike/Bike.md)                      | Very easy   | #customapplications #NodeJS #reconnaissance #remotecodeexecution #serversidetemplateinjectionSSTI  |
 | [Crocodile](Crocodile/Crocodile.md)       | Very easy   | #customapplications #protocols #apache #FTP #reconnaissance #websitestructurediscovery #cleartextcredentials #anonymous/guestaccess  |
 | [Dancing](Dancing/Dancing.md)             | Very easy   | #protocols #SMB #reconnaissance #anonymous/guestaccess                                             |
