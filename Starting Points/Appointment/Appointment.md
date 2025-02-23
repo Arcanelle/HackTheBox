@@ -93,7 +93,7 @@ HTTP Response code 200 OK.
 }
 ?>
 ```
-`admin'#`
+Login utilisé: `admin'#`
 
 On termine le login par une apostrophe autorisant le script à chercher un ID pour admin. En ajoutant le #, on commente le reste de la ligne du script permettant ainsi au script de ne chercher qu'un utilisateur nommé "admin" sans s'occuper de son mot de passe. Cet utilisateur a existé donc le login est autorisé. Si celui-ci n'existe pas, il faut essayer avec d'autres login par défaut. Etant donné que dans le login nous demandons au script d'exclure la partie mot de passe, on peut rentrer ce qu'on veut dans le champ "password", cela ne sera pas pris en compte car la requête exclut cette partie de correspondance. Et le script retournera une valeur de "1" qui signifie positif si l'utilisateur a existé/existe.
 
