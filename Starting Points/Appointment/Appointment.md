@@ -52,7 +52,7 @@ Progress: 4614 / 4615 (99.98%)
 Finished
 ===============================================================
 ```
-Les status 4.3 ne répondent pas, les status 301 sont des redirections et les status 200 aboutissent. Il serait intéressant ici de se connecter sur l'interface web de la page index.php qui existe. Une page de login apparait:
+Les status 403 ne répondent pas, les status 301 sont des redirections et les status 200 aboutissent. Il serait intéressant ici de se connecter sur l'interface web de la page index.php qui existe. Une page de login apparait:
 
 ![alt text](image-1.png)
 
